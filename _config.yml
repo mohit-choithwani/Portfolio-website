@@ -1,2 +1,21 @@
-title : Mohit Choithwani
-theme : jekyll-theme-minimal
+title: Deep Learning Engineer
+email: work27mohit@gmail.com
+description: >- 
+  Personal academic page for showcasing skills, projects, and publications.
+theme: minimal-mistakes-jekyll
+url: "https://username.github.io"
+baseurl: ""
+
+# Author details
+author:
+  name: Mohit Choithwani
+  avatar: /assets/images/avatar.png
+  bio: Deep Learning Engineer with expertise in 3D reconstruction and computer vision.
+  location: Erlangen, Germany
+  email: work27mohit@gmail.com
+  links:
+    - label: GitHub
+      url: https://github.com/yourusername
+    - label: LinkedIn
+      url: https://www.linkedin.com/in/yourprofile
+
