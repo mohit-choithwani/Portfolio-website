@@ -1,6 +1,6 @@
 title: Mohit Choithwani
 email: work27mohit@gmail.com
-logo: /assets/img/final_profile_pic.png
+logo: /assets/img/final_profile_pic.PNG
 description: Master’s in Data Science with advanced machine learning expertise and 4.5+ years in Software development, eager to drive innovation in the AI-driven data science arena.
 theme: jekyll-theme-minimal
 url: "https://username.github.io"
@@ -9,7 +9,7 @@ baseurl: ""
 # Author details
 author:
   name: Mohit Choithwani
-  avatar: /assets/img/final_profile_pic.png
+  avatar: /assets/img/final_profile_pic.PNG
   bio: Deep Learning Engineer with expertise in 3D reconstruction and computer vision.
   location: Erlangen, Germany
   email: work27mohit@gmail.com
