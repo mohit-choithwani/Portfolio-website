@@ -15,7 +15,7 @@ Conducted experiments with 20+ SOTA 3D surface reconstruction methods based on N
 Quantified the robustness of these advanced techniques with different inaccuracies (Gaussian noise and low-intensity light) to determine which methods excel in real-world conditions.
 Demonstrated that various forms of input corruption have varying impacts on the completeness of reconstructed 3D models.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Experimentation_Setup](/images/camera_exp_setup.gif)
 
 ## Work Experience
 **Salesforce Solution Architect, Brose, Germany**  
@@ -32,6 +32,8 @@ Demonstrated that various forms of input corruption have varying impacts on the 
 - Published research findings in reputable conferences and journals.
 - Developed and maintained machine learning models for various research projects.
 
+![Oprimal Camera Position](/images/optimal_camera.jpg)
+
 **Salesforce Developer, TATA Consultancy Services, India**  
 *Jul 2018 - Sep 2021*
 
@@ -47,12 +49,12 @@ Demonstrated that various forms of input corruption have varying impacts on the 
 
 ## Projects
 
-###  Title: Get Fit with PCA [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+###  Title: Get Fit with PCA [Report](https://github.com/mohit-choithwani/Get_Fit_with_PCA/blob/main/Fitness%20App.pdf)
 - Developed a computer vision-based fitness monitoring application that analyzes exercise videos to evaluate and score the accuracy of performed exercises.
 - Implemented landmark extraction using the MediaPipe library to precisely detect body positions from video, followed by normalization of these landmarks through rigid alignment.
 - Constructed a PCA model using Singular Value Decomposition on the normalized landmarks to capture essential movement parameters, assessing exercise accuracy by comparing the L2 norm against a set threshold for real-time evaluation.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Fitness App](/images/pca_image.gif)
 
 ##  EDUCATION
 
