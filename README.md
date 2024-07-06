@@ -15,7 +15,7 @@ Conducted experiments with 20+ SOTA 3D surface reconstruction methods based on N
 Quantified the robustness of these advanced techniques with different inaccuracies (Gaussian noise and low-intensity light) to determine which methods excel in real-world conditions.
 Demonstrated that various forms of input corruption have varying impacts on the completeness of reconstructed 3D models.
 
-![Experimentation_Setup](/assets/img/camera_exp_setup.gif)
+![Experiment_Setup](/assets/img/camera_exp_setup.gif)
 
 ## Work Experience
 **Salesforce Solution Architect, Brose, Germany**  
@@ -32,7 +32,7 @@ Demonstrated that various forms of input corruption have varying impacts on the 
 - Published research findings in reputable conferences and journals.
 - Developed and maintained machine learning models for various research projects.
 
-![Oprimal Camera Position](/assets/img/optimal_camera.jpg)
+![Optimal Camera Position](/assets/img/optimal_camera.jpg)
 
 **Salesforce Developer, TATA Consultancy Services, India**  
 *Jul 2018 - Sep 2021*
