@@ -15,7 +15,7 @@ Conducted experiments with 20+ SOTA 3D surface reconstruction methods based on N
 Quantified the robustness of these advanced techniques with different inaccuracies (Gaussian noise and low-intensity light) to determine which methods excel in real-world conditions.
 Demonstrated that various forms of input corruption have varying impacts on the completeness of reconstructed 3D models.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Experimentation_Setup](/images/camera_exp_setup.gif)
 
 ## Work Experience
 **Salesforce Solution Architect, Brose, Germany**  
