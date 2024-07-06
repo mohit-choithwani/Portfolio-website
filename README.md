@@ -15,7 +15,7 @@
 - Quantified the robustness of these advanced techniques with different inaccuracies (Gaussian noise and low-intensity light) to determine which methods excel in real-world conditions.
 - Demonstrated that various forms of input corruption have varying impacts on the completeness of reconstructed 3D models.
 
-![Experiment_Setup](/assets/img/camera_exp_setup.gif)
+![Experiment_Setup](/assets/img/camera_exp_setup.GIF)
 
 ## Work Experience
 **Salesforce Solution Architect, Brose, Germany**  
@@ -32,7 +32,7 @@
 - Published research findings in reputable conferences and journals.
 - Developed and maintained machine learning models for various research projects.
 
-![Optimal Camera Position](/assets/img/optimal_camera.jpg)
+![Optimal Camera Position](/assets/img/optimal_camera.JPG)
 
 **Salesforce Developer, TATA Consultancy Services, India**  
 *Jul 2018 - Sep 2021*
@@ -54,7 +54,7 @@
 - Implemented landmark extraction using the MediaPipe library to precisely detect body positions from video, followed by normalization of these landmarks through rigid alignment.
 - Constructed a PCA model using Singular Value Decomposition on the normalized landmarks to capture essential movement parameters, assessing exercise accuracy by comparing the L2 norm against a set threshold for real-time evaluation.
 
-![Fitness App](/assets/img/pca_image.gif)
+![Fitness App](/assets/img/pca_image.GIF)
 
 ##  EDUCATION
 
