@@ -34,7 +34,7 @@
 - Published research findings in reputable conferences and journals.
 - Developed and maintained machine learning models for various research projects.
 
-![Optimal Camera Position](https://github.com/mohit-choithwani/Portfolio-website/assets/images/optimal_camera.PNG.jpg)
+![Optimal Camera Position](https://github.com/mohit-choithwani/Portfolio-website/blob/main/assets/images/optimal_camera.PNG.jpg)
 
 **Salesforce Developer, TATA Consultancy Services, India**  
 *Jul 2018 - Sep 2021*
