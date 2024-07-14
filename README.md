@@ -15,8 +15,9 @@
 - Quantified the robustness of these advanced techniques with different inaccuracies (Gaussian noise and low-intensity light) to determine which methods excel in real-world conditions.
 - Demonstrated that various forms of input corruption have varying impacts on the completeness of reconstructed 3D models.
 
-![Experiment_Setup](/assets/images/camera_exp_setup.gif)
-<img src="https://github.com/mohit-choithwani/Portfolio-website/tree/main/assets/images/camera_exp_setup.gif" width=1000>
+{% raw %}
+<img src="https://github.com/mohit-choithwani/Portfolio-website/assets/images/camera_exp_setup.gif" width=1000>
+{% endraw %}
 
 ## Work Experience
 **Salesforce Solution Architect, Brose, Germany**  
@@ -33,7 +34,7 @@
 - Published research findings in reputable conferences and journals.
 - Developed and maintained machine learning models for various research projects.
 
-![Optimal Camera Position](/assets/images/optimal_camera.PNG.jpg)
+![Optimal Camera Position](https://github.com/mohit-choithwani/Portfolio-website/assets/images/optimal_camera.PNG.jpg)
 
 **Salesforce Developer, TATA Consultancy Services, India**  
 *Jul 2018 - Sep 2021*
