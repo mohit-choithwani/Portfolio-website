@@ -16,6 +16,7 @@
 - Demonstrated that various forms of input corruption have varying impacts on the completeness of reconstructed 3D models.
 
 ![Experiment_Setup](/assets/images/camera_exp_setup.gif)
+<img src="https://github.com/mohit-choithwani/Portfolio-website/tree/main/assets/images/camera_exp_setup.gif" width=1000>
 
 ## Work Experience
 **Salesforce Solution Architect, Brose, Germany**  
