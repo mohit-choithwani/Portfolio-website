@@ -4,6 +4,7 @@ logo: /assets/img/final_profile_pic.png
 description: Master’s in Data Science with advanced machine learning expertise and 4.5+ years in Software development, eager to drive innovation in the AI-driven data science arena.
 theme: jekyll-theme-minimal
 url: "https://username.github.io"
+markdown: GFM
 baseurl: ""
 
 # Author details
