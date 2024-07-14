@@ -15,9 +15,8 @@
 - Quantified the robustness of these advanced techniques with different inaccuracies (Gaussian noise and low-intensity light) to determine which methods excel in real-world conditions.
 - Demonstrated that various forms of input corruption have varying impacts on the completeness of reconstructed 3D models.
 
-{% raw %}
-<img src="https://github.com/mohit-choithwani/Portfolio-website/assets/images/camera_exp_setup.gif" width=1000>
-{% endraw %}
+<img src="https://github.com/mohit-choithwani/Portfolio-website/blob/main/assets/images/camera_exp_setup.gif" width=1000>
+
 
 ## Work Experience
 **Salesforce Solution Architect, Brose, Germany**  
